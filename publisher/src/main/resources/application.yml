@@ -1,2 +1,9 @@
 server:
   port: 8080
+
+mqtt:
+  broker:
+    host: 586640199fe648a6bfcd7c54c72ed6e6.s2.eu.hivemq.cloud
+    port: 8883
+    username: testuser
+    password: testuser

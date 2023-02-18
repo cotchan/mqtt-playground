@@ -37,5 +37,6 @@ subprojects {
 		implementation 'org.springframework.boot:spring-boot-starter'
 		implementation 'org.springframework.boot:spring-boot-starter-web'
 		implementation 'org.springframework.boot:spring-boot-starter-test'
+		implementation 'com.hivemq:hivemq-mqtt-client:1.2.1'
 	}
 }
